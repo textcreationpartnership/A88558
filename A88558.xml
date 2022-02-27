@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The discourse of Robert Earl of Lothian, Justice-General, his Majestie's commissioner to the general-assembly, after the reading the King's letter. Upon the 16th day of January, 1692</title>
+            <author>Lothian, Robert Kerr, Earl of, 1636-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88558</idno>
+            <idno type="STC">Wing L3083</idno>
+            <idno type="STC">ESTC R230407</idno>
+            <idno type="EEBO-CITATION">99899584</idno>
+            <idno type="PROQUEST">99899584</idno>
+            <idno type="VID">154050</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154050)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2395:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The discourse of Robert Earl of Lothian, Justice-General, his Majestie's commissioner to the general-assembly, after the reading the King's letter. Upon the 16th day of January, 1692</title>
+                  <author>Lothian, Robert Kerr, Earl of, 1636-1703.</author>
+               </titleStmt>
+               <extent>5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno dom. 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Government --  Early works to 1800.</term>
+               <term>Scotland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154050:1"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:154050:1"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:154050:2"/>
+            <!-- PDF PAGE 52 -->
+            <pb facs="tcp:154050:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <p>THE DISCOURSE OF ROBERT <hi>EARL</hi> of LOTHIAN, <hi>J<g ref="char:V">Ʋ</g>STICE-GENERAL,</hi> His Majeſtie's COMMISSIONER TO THE GENERAL-ASSEMBLY, After the Reading the KING'S LETTER. Upon the 16th Day of <hi>January,</hi> 1692.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <q>HONI SOIT QUI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <head>WM</head>
+               <head>RR</head>
+            </figure>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, <hi>anno Dom.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:154050:3"/>
+            <!-- PDF PAGE 53 -->
+            <pb n="3" facs="tcp:154050:3"/>
+            <!-- PDF PAGE 53 -->
+            <head>THE DISCOURSE OF <hi>ROBERT</hi> Earl of <hi>LOTHIAN,</hi> Juſtice General, His Majeſties Commiſ<g ref="char:EOLhyphen"/>ſioner to the General Aſſembly, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Right Reverend Ministers, and Elders of this General Aſſembly,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shal not take up your Time with any thing concerning my ſelf, being ſenſible of ſo many Natural Unfitneſſes for the Character I bear, that it were no little Diſinge<g ref="char:EOLhyphen"/>nuity, to endeavour by an Apologie to extenuat them; But being very unexpectedly Commanded by the King, whoſe Orders <hi>I</hi> Diſpute not, to meet you at this Affem<g ref="char:EOLhyphen"/>bly, I chooſed rather to expoſe my Reputation which hitherto I have been tender enough of, with this Diſadvantage to come after a Perſon ſo well Qualifyed and Fitted for this Affair; then to de<g ref="char:EOLhyphen"/>cline any thing wherein His Majeſty may think I could in the leaſt be Serviceable to Him, or have any Proſpect of being any manner of way Inſtrumental in ſettling the Peace of the Church, which hath for ſo long a time been Rent, without any great appearance hitherto of an effectual way for its Healing.</p>
+            <p>And indeed the known Inclinations of His Majeſty to go the greateſt length can conſiſt with Royaltie, to effectuat ſo good a Work, are no leſs Encouragments to your Well-wiſhers, then they ſhould be Incit<g ref="char:EOLhyphen"/>ments to make you go all the Lengths and Advances on your parts, that ſuch a Pious and Proteſtant King deſerves at your Hands, who is wil<g ref="char:EOLhyphen"/>ling to do more voluntarly, than what could ever be extorted from His Royal Predeceſſors, even in their loweſt Condition; And which can in Reaſon never be expected from any ſhall ſucceed in the Royal Throne. But as no leſs was to be look'd for from the Return of your Prayers, and your ſincere Endeavours in the work of the Miniſtry in the midſt of
+<pb n="4" facs="tcp:154050:4"/>
+               <!-- PDF PAGE 54 -->ſharpeſt Tryals, than the Bleſſing of ſuch a King, your Deliverer, who in following the Steps of his Renouned and Noble Predeceſſors the Princes of <hi>Orange,</hi> the Bulwark and Deliverers of the Proteſtant Intereſt through<g ref="char:EOLhyphen"/>out the World, hath now in a manner put it in your own Hands, to ſettle the Peace, and Unity of our Church; ſo upon the other hand, if there ſhould be any Shyneſs or Remiſsneſs in coming up the length to give His Majeſty a ſuitable Return, as it will be juſtly thought by your Freinds, a Stroke from Heaven, from hidden Cauſes of GODS unſearchable Decrees, as the Deſtruction of the Primitive Churches were; So the Op<g ref="char:EOLhyphen"/>portunity loſt, will be an Advantage and Rejoycing to your Enemies, probably not to be regained. But I ſhall Wiſh and Hope for better things from this Reverend and Wiſe Aſſembly, who have in your own Hands, to make your ſelves a more general one, by uniting the Church, removing Error and Scandal, ſtopping the Mouths of your Adverſaries, and make the Church of <hi>Scotland</hi> more famous than any Church, or Church-men I know, who in no Age were much commended for Charity towards their Brethren; tho no Chriſtian Duty is ſo much recommended by Holy Scripture.</p>
+            <p>There is one thing <hi>I</hi> cannot forbear to mention, much talked of, being much in the Heads, and in Controverſie in this Age, which is <hi>Church-Government,</hi> and which I cannot deny to be Material, it being the Hedge about the Vineyard, without which the tender Plants cannot be raiſed, neither the mature Fruit well preſerved; Yet in compariſon of ſeveral o<g ref="char:EOLhyphen"/>thers, it appears not to be of ſo great Conſequence, being that which ſo many Learned, Pious and Orthodox Divines differ ſo much upon, who would ſuffer Martyrdom before they would yield to <hi>Points,</hi> that make not ſo great Noiſe, and tho that <hi>Fence</hi> he of very good uſe, it cannot be ſuppoſ<g ref="char:EOLhyphen"/>ed, it is raiſed to keep out Fellow-labourers, who are willing to work in the Vineyard; <hi>Since thoſe came in at the last hour, were made equal with thoſe that came at the first hour, who had born the burden, and heat of the day;</hi> So it would ſeem reaſonable, that ſince the Biſhops, who were looked upon as your Perſecutors, being lay'd aſide by Act of Parliament, and of whom, tho it cannot be ſaid, they did come up the length of the Piety, or Mo<g ref="char:EOLhyphen"/>ral Virtues, of thoſe Biſhops of the Primitive Times, or of thoſe in our Neigh<g ref="char:EOLhyphen"/>bour Nation of <hi>England,</hi> who have given ſo recent a Teſtimony of their Faithfulneſs; Yet that ſhould be no hinderance, why thoſe ſhould not be cordially Received into the Government, who are already in the Ex<g ref="char:EOLhyphen"/>erciſe of the more eſſentials, with this double Advantage, both to ſtrength<g ref="char:EOLhyphen"/>en you conſiderably, and leave the others without ſo much as the hopes of either Party, or Abbettors.</p>
+            <p>What can after this be the Grounds of rational Apprehenſions or Jea<g ref="char:EOLhyphen"/>louſies? Since Epiſcopacy is now Aboliſhed, and Presbytrie Eſtabliſh<g ref="char:EOLhyphen"/>ed by an Act of Parliament, which His Majeſty ſince, hath given repeat<g ref="char:EOLhyphen"/>ed Aſſurances, not to alter; Sure then the moſt prudent, whereof, I am perſwaded, there are many in this Grave, and Wiſe Aſſembly, will not ſtand upon Nyceties and Punctilio's, ſo extrinſick to Men of your
+<pb n="5" facs="tcp:154050:4"/>
+               <!-- PDF PAGE 54 -->Profeſſion, which even to Laicks, Princes, or States, where Points of Honour have got ſo unreaſonable Footing upon, are at beſt but blameable Formalities, which neither anſwers the Laws of GOD, nor Men; nor Biggottry, which I hope, you need not be guarded againſt, though in<g ref="char:EOLhyphen"/>cident to Church-Men; And the Character of the Erroneous, is found to be oftneſt Lodged in the narroweſt Heads and Capacities, and fre<g ref="char:EOLhyphen"/>quently miſtaken for Zeal.</p>
+            <p>But I forbear, being loath to take up your time; Only this, that I think it a Stretch to Reaſon, to Comprehend, how Royal Authority, in a Proteſtant King, can Claſh with a Proteſtant Church, in His own Dominions, no Articles of Faith being controverted; So I ſhall only lay before you, what His Majeſty, with ſo much Reaſon ex<g ref="char:EOLhyphen"/>pects, and which both your Friends and Enemies, looks upon with ſuch different Eyes and Expectations, and is, what I ſuppoſe, your real Inte<g ref="char:EOLhyphen"/>reſt, in the firſt place, chearfully to receive your Brethren with open Arms, who are willing to Joyn, and who have never been made ap<g ref="char:EOLhyphen"/>pear to be either Scandalous or Erroneous, and who are ready to ſubmit to the Government, and leave thoſe things of ſmaller moment, until that great Bleſſing of a Chriſtian Charitable Union be perfected, without which, all endeavours elſe, will be to ſmall purpoſe; But upon the other hand, if there ſhall be any Miniſters, that Preached under Epiſ<g ref="char:EOLhyphen"/>copacy, ſhould now have any Remiſſneſs to imbrace the Offer of your ac<g ref="char:EOLhyphen"/>cepting of them as it will diſcover what Spirits they are of, and what Meaſures ſhould be taken, ſo it ſhould not retard, nor render ſuſpect, thoſe who freely offer themſelves.</p>
+            <p>But I ſhall hope, that henceforth, the only Endeavour ſhall be, in an Holy Emulation, who ſhall ſhew moſt readineſs, to be Unite; That they may joyn their Labours, in the Work of the Miniſtry; And that my part may only be that of <hi>a Witneſs,</hi> with the Satisfaction, of having the Honour, to Acquaint His Majeſty, of what I am Confident, He will be ſo very well pleaſed with.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154050:5"/>
+            <!-- PDF PAGE 55 -->
+            <pb facs="tcp:154050:5"/>
+            <!-- PDF PAGE 55 -->
+            <pb facs="tcp:154050:6"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:154050:6"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:154050:7"/>
+            <!-- PDF PAGE 57 -->
+            <pb facs="tcp:154050:7"/>
+            <!-- PDF PAGE 57 -->
+            <pb facs="tcp:154050:8"/>
+            <!-- PDF PAGE 58 -->
+            <pb facs="tcp:154050:8"/>
+            <!-- PDF PAGE 58 -->
+            <pb facs="tcp:154050:9"/>
+            <!-- PDF PAGE 59 -->
+            <pb facs="tcp:154050:9"/>
+            <!-- PDF PAGE 59 -->
+            <pb facs="tcp:154050:10"/>
+            <!-- PDF PAGE 60 -->
+            <pb facs="tcp:154050:10"/>
+            <!-- PDF PAGE 60 -->
+            <pb facs="tcp:154050:11"/>
+            <!-- PDF PAGE 61 -->
+            <pb facs="tcp:154050:11"/>
+            <!-- PDF PAGE 61 -->
+            <pb facs="tcp:154050:12"/>
+            <!-- PDF PAGE 62 -->
+            <pb facs="tcp:154050:12"/>
+            <!-- PDF PAGE 62 -->
+            <pb facs="tcp:154050:13"/>
+            <!-- PDF PAGE 63 -->
+            <pb facs="tcp:154050:13"/>
+            <!-- PDF PAGE 63 -->
+            <pb facs="tcp:154050:14"/>
+            <!-- PDF PAGE 64 -->
+            <pb facs="tcp:154050:14"/>
+            <!-- PDF PAGE 64 -->
+         </div>
+      </body>
+   </text>
+</TEI>
